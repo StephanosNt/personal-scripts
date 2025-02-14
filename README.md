@@ -13,10 +13,9 @@ There’s no real order or goal—just random, fun experiments and practice alon
 
 ## 📂 Projects & Scripts  
 Here are some types of projects you might find here:  
-- 🔹 **Automation scripts** (Bash, Python, etc.)  
-- 🔹 **Backend experiments** (Go, Node.js)  
-- 🔹 **Frontend tests** (React, HTML/CSS, JavaScript)
--
+- **Automation scripts** (Bash, Python, etc.)  
+- **Backend experiments** (Go, Node.js)  
+- **Frontend tests** (React, HTML/CSS, JavaScript).
 ---
 
 ## ⚠️ Disclaimer
